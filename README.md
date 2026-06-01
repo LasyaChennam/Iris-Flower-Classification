@@ -2,37 +2,25 @@
 
 ## Project Overview
 This project uses Machine Learning to classify Iris flowers into three species:
-- Iris-setosa
-- Iris-versicolor
-- Iris-virginica
-
-## Dataset
-The Iris dataset contains:
-- Sepal Length
-- Sepal Width
-- Petal Length
-- Petal Width
-- Species
+- Setosa
+- Versicolor
+- Virginica
 
 ## Technologies Used
 - Python
-- Pandas
 - Scikit-learn
-- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
 
-## Algorithm
-Decision Tree Classifier
-
-## Steps Performed
-1. Loaded the Iris dataset.
-2. Split data into training and testing sets.
-3. Trained a Decision Tree model.
-4. Predicted flower species.
-5. Evaluated model accuracy.
+## Steps
+1. Load Iris dataset
+2. Split data into training and testing sets
+3. Train the model
+4. Predict flower species
+5. Evaluate accuracy
 
 ## Result
-The model successfully classified Iris flowers with high accuracy.
-
-## Author
-Lasya chennam
-
+The model successfully classifies Iris flowers with high accuracy.
+#Author
+LasyaChennam
